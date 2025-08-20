@@ -1,21 +1,20 @@
-// console.log("Hello World")
-// let h2 = $("h2");
-// console.log(h2);
-// console.log($(".green"));
-// let first = $(".h2-collection").even().css("background-color", "");
-// let last = $(".h2-collection").odd().css("background-color", "black");
-// console.log(first);
-// console.log(last);
-// let chose =  $("div").has("h3").css("background-color", "pink"); 
+let h2 = $("h2");
+console.log(h2);
+console.log($(".green"));
+let first = $(".h2-collection").even().css("background-color", "");
+let last = $(".h2-collection").odd().css("background-color", "black");
+console.log(first);
+console.log(last);
+let chose =  $("div").has("h3").css("background-color", "pink"); 
 
-// console.log($("h1").empty());
-// let hidden = $("h3").hide();
-// console.log(hidden)
-// let prepend = $("#myDiv").prepend($(".yellow"));
-// console.log(prepend);
-// let add = $(".red");
-// add.addClass(" book pencil");
-// console.log(add);
+console.log($("h1").empty());
+let hidden = $("h3").hide();
+console.log(hidden)
+let prepend = $("#myDiv").prepend($(".yellow"));
+console.log(prepend);
+let add = $(".red");
+add.addClass(" book pencil");
+console.log(add);
 $("#hideme").on("click", function () {
     $(this).hide();
 });
