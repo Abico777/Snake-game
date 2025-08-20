@@ -1,0 +1,28 @@
+.blue{
+    background-color: blue;
+    color: beige;
+}
+.green{
+    background-color: green;
+    color: beige;
+}
+.red{
+    background-color: red;
+    color: beige;
+}
+.yellow{
+    background-color: yellow;
+    color: rgb(143, 22, 8);
+}
+.aqua{
+    background-color: aqua;
+    color: beige;
+}
+.form{
+    border: 4px solid saddlebrown;
+    text-align: center;
+    cursor: pointer;
+}
+.purple {
+    background-color: seagreen;
+}

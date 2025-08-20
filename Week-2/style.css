@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+}
+ul{
+    list-style: none;
+    font-size: 2rem;
+}
+.green {
+    background-color: green;
+    margin: 20px;
+}
+.yellow {
+    background-color: bisque;
+    margin: 20px;
+}
+.red {
+    background-color: pink;
+    color:white;
+    margin: 20px;
+}
+.chocolate {
+    background-color: rgb(206, 99, 23);
+    margin: 20px;
+}
+.box {
+    background-color: gold;
+    font-weight: bold;
+    font-size: 24px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
